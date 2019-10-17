@@ -41,9 +41,9 @@ namespace 队列
         /// <param name="args">
         /// The args.
         /// </param>
-        private void Main(string[] args)
+        private static void Main(string[] args)
         {
-            this.gets();
+            //this.gets();
         }
 
         private  void gets()

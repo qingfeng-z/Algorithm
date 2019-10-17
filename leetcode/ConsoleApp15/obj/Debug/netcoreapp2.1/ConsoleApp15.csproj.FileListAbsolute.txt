@@ -1,0 +1,10 @@
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\bin\Debug\netcoreapp2.1\ConsoleApp15.deps.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\bin\Debug\netcoreapp2.1\ConsoleApp15.runtimeconfig.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\bin\Debug\netcoreapp2.1\ConsoleApp15.runtimeconfig.dev.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\bin\Debug\netcoreapp2.1\ConsoleApp15.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\bin\Debug\netcoreapp2.1\ConsoleApp15.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\obj\Debug\netcoreapp2.1\ConsoleApp15.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\obj\Debug\netcoreapp2.1\ConsoleApp15.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\obj\Debug\netcoreapp2.1\ConsoleApp15.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\obj\Debug\netcoreapp2.1\ConsoleApp15.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp15\obj\Debug\netcoreapp2.1\ConsoleApp15.pdb

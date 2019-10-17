@@ -5,3 +5,9 @@ C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ConsoleApp2\obj\Debug\C
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

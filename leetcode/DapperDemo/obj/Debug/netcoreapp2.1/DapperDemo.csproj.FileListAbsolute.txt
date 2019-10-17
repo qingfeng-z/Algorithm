@@ -9,3 +9,13 @@ C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\DapperDemo\obj\Debug\ne
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.dll
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.pdb
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.csprojAssemblyReference.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\bin\Debug\netcoreapp2.1\DapperDemo.deps.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\bin\Debug\netcoreapp2.1\DapperDemo.runtimeconfig.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\bin\Debug\netcoreapp2.1\DapperDemo.runtimeconfig.dev.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\bin\Debug\netcoreapp2.1\DapperDemo.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\bin\Debug\netcoreapp2.1\DapperDemo.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\DapperDemo\obj\Debug\netcoreapp2.1\DapperDemo.pdb

@@ -689,19 +689,19 @@
   },
   "packageFolders": {
     "C:\\Users\\12731\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\leetcode\\leetcode\\快速排序\\快速排序.csproj",
+      "projectUniqueName": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\Algorithm\\leetcode\\快速排序\\快速排序.csproj",
       "projectName": "快速排序",
-      "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\leetcode\\leetcode\\快速排序\\快速排序.csproj",
+      "projectPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\Algorithm\\leetcode\\快速排序\\快速排序.csproj",
       "packagesPath": "C:\\Users\\12731\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\leetcode\\leetcode\\快速排序\\obj\\",
+      "outputPath": "C:\\Users\\12731\\source\\repos\\Bitbucktet\\Algorithm\\leetcode\\快速排序\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\12731\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -731,7 +731,6 @@
       "netcoreapp2.1": {
         "dependencies": {
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

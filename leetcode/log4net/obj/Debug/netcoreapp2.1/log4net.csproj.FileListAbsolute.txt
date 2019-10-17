@@ -1,3 +1,13 @@
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.csproj.CoreCompileInputs.cache
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.AssemblyInfoInputs.cache
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\bin\Debug\netcoreapp2.1\log4net.deps.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\bin\Debug\netcoreapp2.1\log4net.runtimeconfig.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\bin\Debug\netcoreapp2.1\log4net.runtimeconfig.dev.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\bin\Debug\netcoreapp2.1\log4net.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\bin\Debug\netcoreapp2.1\log4net.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.pdb

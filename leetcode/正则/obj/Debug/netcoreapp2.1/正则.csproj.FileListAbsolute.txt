@@ -8,3 +8,13 @@ C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\正则\obj\Debug\netcor
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\正则\obj\Debug\netcoreapp2.1\正则.AssemblyInfo.cs
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\正则\obj\Debug\netcoreapp2.1\正则.dll
 C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\正则\obj\Debug\netcoreapp2.1\正则.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\bin\Debug\netcoreapp2.1\正则.deps.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\bin\Debug\netcoreapp2.1\正则.runtimeconfig.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\bin\Debug\netcoreapp2.1\正则.runtimeconfig.dev.json
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\bin\Debug\netcoreapp2.1\正则.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\bin\Debug\netcoreapp2.1\正则.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\obj\Debug\netcoreapp2.1\正则.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\obj\Debug\netcoreapp2.1\正则.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\obj\Debug\netcoreapp2.1\正则.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\obj\Debug\netcoreapp2.1\正则.dll
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\正则\obj\Debug\netcoreapp2.1\正则.pdb
