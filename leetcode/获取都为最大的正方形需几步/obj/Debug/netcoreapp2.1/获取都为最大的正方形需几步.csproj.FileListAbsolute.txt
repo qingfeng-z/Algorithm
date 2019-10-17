@@ -1,0 +1,11 @@
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\bin\Debug\netcoreapp2.1\获取都为最大的正方形需几步.deps.json
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\bin\Debug\netcoreapp2.1\获取都为最大的正方形需几步.runtimeconfig.json
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\bin\Debug\netcoreapp2.1\获取都为最大的正方形需几步.runtimeconfig.dev.json
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\bin\Debug\netcoreapp2.1\获取都为最大的正方形需几步.dll
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\bin\Debug\netcoreapp2.1\获取都为最大的正方形需几步.pdb
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\obj\Debug\netcoreapp2.1\获取都为最大的正方形需几步.csprojAssemblyReference.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\obj\Debug\netcoreapp2.1\获取都为最大的正方形需几步.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\obj\Debug\netcoreapp2.1\获取都为最大的正方形需几步.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\obj\Debug\netcoreapp2.1\获取都为最大的正方形需几步.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\obj\Debug\netcoreapp2.1\获取都为最大的正方形需几步.dll
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\获取都为最大的正方形需几步\obj\Debug\netcoreapp2.1\获取都为最大的正方形需几步.pdb

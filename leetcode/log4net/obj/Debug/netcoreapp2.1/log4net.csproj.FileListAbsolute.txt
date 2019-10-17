@@ -1,0 +1,3 @@
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\log4net\obj\Debug\netcoreapp2.1\log4net.AssemblyInfo.cs

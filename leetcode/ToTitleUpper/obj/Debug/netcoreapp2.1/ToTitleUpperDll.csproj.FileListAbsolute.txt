@@ -1,0 +1,8 @@
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\bin\Debug\netcoreapp2.1\ToTitleUpperDll.deps.json
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\bin\Debug\netcoreapp2.1\ToTitleUpperDll.dll
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\bin\Debug\netcoreapp2.1\ToTitleUpperDll.pdb
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\obj\Debug\netcoreapp2.1\ToTitleUpperDll.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\obj\Debug\netcoreapp2.1\ToTitleUpperDll.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\obj\Debug\netcoreapp2.1\ToTitleUpperDll.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\obj\Debug\netcoreapp2.1\ToTitleUpperDll.dll
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\ToTitleUpper\obj\Debug\netcoreapp2.1\ToTitleUpperDll.pdb

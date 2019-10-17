@@ -1,0 +1,11 @@
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\bin\Debug\netcoreapp2.1\EF.deps.json
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\bin\Debug\netcoreapp2.1\EF.runtimeconfig.json
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\bin\Debug\netcoreapp2.1\EF.runtimeconfig.dev.json
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\bin\Debug\netcoreapp2.1\EF.dll
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\obj\Debug\netcoreapp2.1\EF.csproj.CoreCompileInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\obj\Debug\netcoreapp2.1\EF.AssemblyInfoInputs.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\obj\Debug\netcoreapp2.1\EF.AssemblyInfo.cs
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\bin\Debug\netcoreapp2.1\EF.pdb
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\obj\Debug\netcoreapp2.1\EF.csprojAssemblyReference.cache
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\obj\Debug\netcoreapp2.1\EF.dll
+C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\EF\obj\Debug\netcoreapp2.1\EF.pdb
