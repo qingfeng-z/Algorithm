@@ -171,3 +171,4 @@ C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\MvcDemo\obj\Debug\MvcD
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\MvcDemo\obj\Debug\MvcDemo.dll
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\MvcDemo\obj\Debug\MvcDemo.xml
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\MvcDemo\obj\Debug\MvcDemo.pdb
+C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\MvcDemo\obj\Debug\MvcDemo.vbprojAssemblyReference.cache

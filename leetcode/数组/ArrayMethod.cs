@@ -26,6 +26,8 @@ namespace 数组
             //{
             //    return true;
             //}
+
+            // 这里是数组
             arr = new int[] { 1, 2, 3, 1 };
             var res = true;
             var dict = new Dictionary<int, int>();

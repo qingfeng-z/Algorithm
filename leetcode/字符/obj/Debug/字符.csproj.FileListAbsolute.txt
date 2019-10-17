@@ -8,7 +8,6 @@ C:\Users\12731\source\repos\Bitbucktet\leetcode\leetcode\字符\obj\Debug\字符
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\字符\bin\Debug\字符.exe.config
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\字符\bin\Debug\字符.exe
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\字符\bin\Debug\字符.pdb
-C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\字符\obj\Debug\字符.csprojAssemblyReference.cache
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\字符\obj\Debug\字符.csproj.CoreCompileInputs.cache
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\字符\obj\Debug\字符.exe
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\字符\obj\Debug\字符.pdb

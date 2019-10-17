@@ -127,7 +127,6 @@ C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\bin\Microso
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\bin\zh-Hans\System.Web.Http.resources.dll
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
-C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\obj\Debug\WebApiDemo.csprojAssemblyReference.cache
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\obj\Debug\WebApiDemo.csproj.CoreCompileInputs.cache
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\obj\Debug\WebApiDemo.csproj.CopyComplete
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\WebApiDemo\obj\Debug\WebApiDemo.dll

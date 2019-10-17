@@ -187,7 +187,6 @@ C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\bin\zh-Han
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\bin\zh-Hans\System.Web.WebPages.resources.dll
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\bin\zh-Hans\System.Web.WebPages.Deployment.resources.dll
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
-C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\obj\Debug\BookService.csprojAssemblyReference.cache
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\obj\Debug\BookService.Migrations.InitData.resources
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\obj\Debug\BookService.csproj.GenerateResource.cache
 C:\Users\12731\source\repos\Bitbucktet\Algorithm\leetcode\BookService\obj\Debug\BookService.csproj.CoreCompileInputs.cache
